@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Swings.Calculator">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <autoscrolls value="true"/>
+      <background color="-13130883"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="99c65" class="javax.swing.JTextPane" binding="heading">
+        <constraints border-constraint="North"/>
+        <properties>
+          <background color="-658957"/>
+          <caretColor color="-133830"/>
+          <disabledTextColor color="-133830"/>
+          <text value="Calculator"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
